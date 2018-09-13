@@ -6,11 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scene/Apocalipt.unity
-    guid: 39ae824c5ad853b418bf8155a4ef5df7
-  - enabled: 1
-    path: Assets/Scene/Apocalipt2.unity
-    guid: da6b917330bcedc4289e41d6a47182d8
-  - enabled: 1
-    path: Assets/Scene/Apocalipt3.unity
-    guid: b62088a7c4f8db142aa55f9e4f109f01
+    path: Assets/PresetsRTC/AAA_fire_Unity5/AAA_Fire.unity
+    guid: 8793930fcfb55014ba7fb1767fa76fc8
